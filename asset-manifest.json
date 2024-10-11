@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhishek-1209/tic-tac-toe-game/static/css/main.15f199ee.css",
+    "main.js": "/Abhishek-1209/tic-tac-toe-game/static/js/main.a018093b.js",
+    "static/js/453.e036e8b5.chunk.js": "/Abhishek-1209/tic-tac-toe-game/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/Abhishek-1209/tic-tac-toe-game/index.html",
+    "main.15f199ee.css.map": "/Abhishek-1209/tic-tac-toe-game/static/css/main.15f199ee.css.map",
+    "main.a018093b.js.map": "/Abhishek-1209/tic-tac-toe-game/static/js/main.a018093b.js.map",
+    "453.e036e8b5.chunk.js.map": "/Abhishek-1209/tic-tac-toe-game/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f199ee.css",
+    "static/js/main.a018093b.js"
+  ]
+}
